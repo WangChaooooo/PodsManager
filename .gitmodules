@@ -1,0 +1,3 @@
+[submodule "YYModel"]
+	path = YYModel
+	url = git@github.com:ibireme/YYModel.git
